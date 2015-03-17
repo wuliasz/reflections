@@ -1,0 +1,15 @@
+What happens when you initialize a repository? 
+
+you set up the metadata part of git. 
+
+How is the staging area different from the working directory 
+and the repository? 
+What value do you think it offers?
+
+different from working directory because it's like a repository: 
+it's tracked
+different from a repository, because it doesn't ahve a head?
+that is, it's temporary(?) in transition(?)
+
+offers another chance to catch issues before committing changes. 
+
